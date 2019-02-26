@@ -6,6 +6,7 @@ alias l='ls -CFlh'
 alias woo='fortune'
 alias lsd="ls -alF | grep /$"
 alias gitlog="git log --graph --oneline --all"
+alias pip="pip3"
 
 # This is GOLD for finding out what is taking so much space on your drives!
 alias diskspace="du -S | sort -n -r |more"
